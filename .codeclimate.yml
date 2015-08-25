@@ -5,6 +5,5 @@ ratings:
    paths:
    - tests/functional/**/*.js
 exclude_paths:
-- legacy/**/*
 - lib/**/*
 - src/**/*
